@@ -25,5 +25,5 @@ for each session we will create a new branch and later we will merge all this br
 
 ## Table of Contents
 
-- Session 01 - What is Nginx?
-- Session 02 - Basic Architecture and Installing Nginx
+- Session 01 - What is Nginx? [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2001)
+- Session 02 - Basic Architecture and Installing Nginx [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2002)
