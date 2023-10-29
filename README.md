@@ -10,6 +10,7 @@ Welcome to the Nginx Tutorial by Vahag Gragoosian in association with DevOps Hob
   - DevOps Enthusiast
   - GitHub: [Vahag's GitHub](https://github.com/Vahaggn)
   - LinkedIn: [Vahag's LinkedIn](https://www.linkedin.com/in/vahag-gragosian/)
+  - Youtube Channel: [Vahag's Youtube](https://www.youtube.com/@vahaggn)
 
 ## DevOps Hobbies Community
 
