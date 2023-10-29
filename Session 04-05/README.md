@@ -39,26 +39,38 @@ Load balancing algorithms determine how incoming requests are distributed among 
 ### Round Robin
 
 Round Robin is a simple algorithm that evenly distributes requests across backend servers in a circular manner. It doesn't consider the server's load or response time.
+Default Method.
+Supported by Nginx - Nginx +
 
 ### Least Connections
 
 The Least Connections algorithm routes new requests to the server with the fewest active connections. It helps balance the load by considering the current workload on each server.
+Supported by Nginx - Nginx +
+Use in Configuration ==> least_conn
 
 ### Least Time
 
 Least Time algorithm directs requests to the server with the lowest response time. This helps improve response speed for clients.
+Supported by Nginx +
+Use in Configuration ==> least_time
 
 ### Generic Hash
 
 The Generic Hash algorithm allows you to specify a hash key in the configuration to route requests consistently based on the key.
+Supported by Nginx - Nginx +
+Use in Configuration ==> hash
 
 ### Random
 
 The Random algorithm selects a backend server at random for each new request. This provides a degree of load balancing and can be useful for certain scenarios.
+Supported by Nginx - Nginx +
+Use in Configuration ==> random
 
 ### IP Hash
 
 IP Hash assigns a request to a server based on the client's IP address. This ensures that requests from the same client always go to the same backend server, useful for session persistence.
+Supported by Nginx - Nginx +
+Use in Configuration ==> ip_hash
 
 ## Conclusion
 
