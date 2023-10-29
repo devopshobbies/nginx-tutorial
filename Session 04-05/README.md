@@ -1,4 +1,4 @@
-# Nginx Tutorial - Session 04: Load Balancer
+# Nginx Tutorial - Session 04-05: Load Balancer
 
 Welcome to Session 04 of the Nginx Tutorial, where we'll explore load balancing with Nginx. We'll discuss different kinds of load balancers and load balancing algorithms.
 
