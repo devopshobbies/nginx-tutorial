@@ -11,6 +11,7 @@ Welcome to Session 02 of the Nginx Tutorial, where we'll explore the basic archi
 2. [Nginx Commands](#nginx-commands)
    - [Basic Commands](#basic-commands)
    - [Useful Switches](#useful-switches)
+     - [-h](#-h)
      - [-v](#-v)
      - [-V](#-V)
      - [-t](#-t)
@@ -66,6 +67,10 @@ Nginx provides several basic commands to control its operation.
 ### Useful Switches
 
 Nginx commands can be augmented with switches for specific functionality.
+
+#### -h
+
+Get Nginx help.
 
 #### -v
 
