@@ -6,7 +6,7 @@ Welcome to Session 06 of the Nginx Tutorial, where we'll delve into the basics o
 
 1. [Basics of HTTP Protocol](#basics-of-http-protocol)
    - [Schema](#schema)
-   - [Domain] (#Domain)
+   - [Domain](#Domain)
    - [HTTP Version](#http-version)
    - [Methods](#methods)
    - [Status Codes](#status-codes)
