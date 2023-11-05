@@ -33,3 +33,7 @@ for each session we will create a new branch and later we will merge all this br
 - Session 05 - Load Balancer [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2004-05)
 - Session 06 - HTTP Protocol 01 [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2006)
 - Session 07 - HTTP Protocol 02 [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2007)
+- Session 08 - Logging 01 [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2008)
+- Session 09 - Logging 02 [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2009)
+- Session 10 - Health Check [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2010)
+- Session 11 - Limiting [Link](https://github.com/devopshobbies/nginx-tutorial/tree/main/Session%2011)
