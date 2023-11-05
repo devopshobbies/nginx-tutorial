@@ -22,3 +22,4 @@ In this section, we'll create a simple HTML file that we want to serve using Ngi
     <p>This is a simple static HTML page served by Nginx via Vahag for DevOps Hobbies.</p>
 </body>
 </html>
+```
