@@ -19,6 +19,8 @@ Welcome to Session 06 of the Nginx Tutorial, where we'll delve into the basics o
 
 The Hypertext Transfer Protocol (HTTP) is the foundation of data communication on the World Wide Web. In this section, we'll explore the fundamental components of the HTTP protocol.
 
+![HTTP](https://github.com/devopshobbies/nginx-tutorial/blob/main/Session%2006/http.webp)
+
 ### Schema
 
 The URL schema indicates the protocol being used, such as "http://" or "https://."
