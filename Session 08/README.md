@@ -1,4 +1,4 @@
-# Nginx Tutorial - Session 07: Logging 01
+# Nginx Tutorial - Session 08: Logging 01
 
 Welcome to Session 07 of the Nginx Tutorial, where we'll dive into the world of logging in Nginx. We'll explore different kinds of logging, including access logs and error logs, and we'll provide a practical demonstration of working with error logs.
 
