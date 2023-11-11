@@ -1,6 +1,6 @@
 # Nginx Tutorial - Session 10: Health Check
 
-Welcome to Session 09 of the Nginx Tutorial, where we'll focus on understanding health checks, their significance, and the different types used in web server management.
+Welcome to Session 10 of the Nginx Tutorial, where we'll focus on understanding health checks, their significance, and the different types used in web server management.
 
 ## Table of Contents
 

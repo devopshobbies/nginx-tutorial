@@ -1,6 +1,6 @@
 # Nginx Tutorial - Session 09: Logging 02
 
-Welcome to Session 08 of the Nginx Tutorial, where we'll continue our exploration of logging in Nginx. This session will focus on access logs, custom access logging, and practical demonstrations for access logging at different levels within the Nginx configuration.
+Welcome to Session 09 of the Nginx Tutorial, where we'll continue our exploration of logging in Nginx. This session will focus on access logs, custom access logging, and practical demonstrations for access logging at different levels within the Nginx configuration.
 
 ## Table of Contents
 
