@@ -21,16 +21,16 @@ The access log records information about every HTTP request received by the Ngin
 
 The error log captures information about issues and errors that occur within the Nginx server. It's a valuable resource for diagnosing problems and troubleshooting.
 
-| Log Level | Description                                   |
-|-----------|-----------------------------------------------|
-| Debug     | Debugging messages that are not useful most of the time.  |
-| Info      | Informational messages that might be good to know.         |
-| Notice    | Something normal but significant happened and it should be noted. |
-| Warn      | Something unexpected happened, however it’s not a cause for concern. |
-| Error     | Something failed.                            |
-| Crit      | A critical condition occurred.               |
-| Alert     | Immediate action is required.               |
-| Emerg     | The system is unusable.                      |
+| Log Level | Description                                   | Value in Nginx |
+|-----------|-----------------------------------------------|----------------|
+| Debug     | Debugging messages that are not useful most of the time.  | debug |
+| Info      | Informational messages that might be good to know.         | info |
+| Notice    | Something normal but significant happened and it should be noted. | notice |
+| Warn      | Something unexpected happened, however it’s not a cause for concern. | warn |
+| Error     | Something failed.                            | error |
+| Crit      | A critical condition occurred.               | crit |
+| Alert     | Immediate action is required.               | alert |
+| Emerg     | The system is unusable.                      | emerg |
 
 ## Conclusion
 
