@@ -1,4 +1,4 @@
-# Nginx Tutorial - Session 07: HTTP Load Balancing 02
+# Nginx Tutorial - Session 07: HTTP Protocol 02
 
 Welcome to Session 07 of the Nginx Tutorial, where we'll continue our exploration of HTTP load balancing. In this session, we'll dive into reverse proxy basics, demonstrate a reverse proxy setup, discuss the use of backup servers, handling down servers, and demonstrate various load balancing algorithms.
 
